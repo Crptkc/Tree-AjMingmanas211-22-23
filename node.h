@@ -11,9 +11,6 @@ public:
         int getValue(){return data;}
         TreeNode* moveRight(){ return rightPtr; }
         TreeNode* moveLeft(){ return leftPtr; }
-
-       
-
 }; // end structure treeNode 
         
 

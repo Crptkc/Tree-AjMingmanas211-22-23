@@ -11,7 +11,6 @@ int main(int argc, char** argv) {
   for (i = 1; i < argc; ++i) {
     b.insertNode(atoi(argv[i]));
   }
-
   cout << "1. Inorder 2. Preorder 3. Postorder 4. Tree\n";
   int choice;
   cout << ": ";

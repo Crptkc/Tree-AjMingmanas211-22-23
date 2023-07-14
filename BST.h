@@ -141,4 +141,5 @@ void BST::printAll(int option) {
       printTree(rootPtr, 0);
       cout << endl;
   }
+  
 }
